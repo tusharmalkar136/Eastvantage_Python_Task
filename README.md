@@ -9,7 +9,6 @@ This is a simple address book application built using FastAPI.
     pip install -r requirements.txt
     ```
 
-
 2. Set up the environment variables by creating a `.env` file in the root directory with the following content:
     ```
     DATABASE_URL="mssql+pyodbc://username:password@hostname/database"
@@ -21,3 +20,6 @@ This is a simple address book application built using FastAPI.
     ```
 
 4. Access the application in your web browser at `http://127.0.0.1:8000`.
+
+
+
